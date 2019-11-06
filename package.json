@@ -1,6 +1,9 @@
 {
-  "name": "jsencrypt",
+  "name": "@shynome/jsencrypt",
   "version": "3.0.0-rc.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
   "license": "MIT",
   "main": "bin/jsencrypt.js",
