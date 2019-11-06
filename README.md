@@ -1,3 +1,11 @@
+### replace no type jsencrypt
+
+```
+yarn add jsencrypt@npm:@shynome/jsencrypt
+```
+
+------
+
 Website
 ======================
 http://travistidwell.com/jsencrypt
